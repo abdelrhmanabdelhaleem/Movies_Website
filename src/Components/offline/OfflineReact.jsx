@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "./Screenshot 2024-03-28 221943.png";
+import img1 from "./offline.png";
 
 export default function OfflineReact() {
   return (
